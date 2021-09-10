@@ -1,0 +1,8 @@
+// compilation
+
+cc -g correct.c -lm
+
+
+// exécution
+
+./a.out params.txt iris_data.txt 150
